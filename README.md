@@ -8,5 +8,30 @@ This project analyzes AtliQ Hardware's sales performance (2019-2021) using ETL p
    - Growth percentage (`21 vs 20`) for each customer.  
    - Key columns: `Customer`, `2020 Net Sales`, `2021 Net Sales`, `21 vs 20 %`
 
-2.  **Market Performance vs Target Reported**     
+2.  **Market Performance vs Target Reported** (https://github.com/Sam-1799/Excel-Sales_Analytics/blob/main/Markets%20Performance%20vs%20Targets%20Reported.pdf)
+   - Country-wise net sales (2019-2021) in USD.  
+   - Includes 2021 targets and variance analysis.  
+   - Key columns: `Country`, `2021 Net Sales`, `2021 Target`, `% Variance`.
+
+---
+
+## Data Cleaning
+  - Handling Missing Values
+  - Ensure all Dimension Tables contains a unique column.
+  - Check Spellings and Replaced it with right.
+
+## Data Modelling
+  - Connect Fact Tables with dim tables using Diagram view option in power query inside Measures option.
+  - Add a dim_date (Date Table) using power query.
+  - Perform and Evaluate the New Measures using DAX Functions.
+
+##Analysis
+The analysis answers the following key questions:
+1. **Top 10 Products by Sales Growth**: Identifies products with the highest percentage increase in net sales (2020 vs. 2021)
+2. **Division Report**: Presents a breakdown of net sales by division for 2020 and 2021, including growth percentages.
+3. **Product Rankings**: Ranks products in the top 5 and bottom 5 based on quantity sold.
+4. **New Products in 2021**: Highlights products introduced in 2021 (those with 0% growth in the "21 vs 20" column).
+5. **Top Countries by 2021 Sales**: Lists the top 5 countries contributing to net sales in 2021.
+
+    
    
