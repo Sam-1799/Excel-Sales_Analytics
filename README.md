@@ -29,9 +29,9 @@ This project analyzes AtliQ Hardware's sales performance (2019-2021) using ETL p
 The analysis answers the following key questions:
 1. **Top 10 Products by Sales Growth**: Identifies products with the highest percentage increase in net sales (2020 vs. 2021) (https://github.com/Sam-1799/Excel-Sales_Analytics/blob/main/Top%2010%20Products.pdf)
 2. **Division Report**: Presents a breakdown of net sales by division for 2020 and 2021, including growth percentages. (https://github.com/Sam-1799/Excel-Sales_Analytics/blob/main/Divison%20level%20Report.pdf)
-3. **Product Rankings**: Ranks products in the top 5 and bottom 5 based on quantity sold.
-4. **New Products in 2021**: Highlights products introduced in 2021 (those with 0% growth in the "21 vs 20" column).
-5. **Top Countries by 2021 Sales**: Lists the top 5 countries contributing to net sales in 2021.
+3. **Product Rankings**: Ranks products in the top 5 and bottom 5 based on quantity sold. (https://github.com/Sam-1799/Excel-Sales_Analytics/blob/main/Top%205%20%26%20Bottom%205%20Products.pdf)
+4. **New Products in 2021**: Highlights products introduced in 2021 (those with 0% growth in the "21 vs 20" column). (https://github.com/Sam-1799/Excel-Sales_Analytics/blob/main/New%20Products%20(2021).pdf)
+5. **Top Countries by 2021 Sales**: Lists the top 5 countries contributing to net sales in 2021. (https://github.com/Sam-1799/Excel-Sales_Analytics/blob/main/Top%205%20Countries.pdf)
 
     
    
